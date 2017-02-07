@@ -8,6 +8,7 @@ sites/*/private
 
 secrets*
 
+
 # Ignore default text files
 robots.txt
 /CHANGELOG.txt
